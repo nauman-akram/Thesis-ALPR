@@ -19,7 +19,7 @@ The confusion matirx inspired character wise evaluation plot:
 
 The results of evaluation of different methods for ALPR system:
 </br>
-![confusion_matrix](comparison plot.png)
+![comparison plot.png](https://github.com/nauman-akram/Thesis-ALPR/blob/main/comparison%20plot.png)
 </br>
 
 </br>
