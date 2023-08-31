@@ -12,6 +12,11 @@ The confusion matirx inspired character wise evaluation plot:
 ![confusion_matrix](accuracy_matrix.png)
 
 
+</br>
+The logical framework for database is present like:
+</br>
+
+
 
 
 </br>
