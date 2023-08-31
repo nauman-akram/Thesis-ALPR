@@ -1,1 +1,3 @@
 this folder contains the dataset acquired from Roboflow, and was manually labelled for the license plate numbers and colour
+
+The csv files in the folders have all the annotations required for this project. 
