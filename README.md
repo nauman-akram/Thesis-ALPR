@@ -1,5 +1,8 @@
 # Thesis-ALPR
 Final thesis at University of Bolton, where an ALPR system was evaluated and a theoretical framework was presented for its enhancement in detecting cloned vehicles.
+<br>
+
+An ALPR system is automic license plate recognizer that are commonly used on highways, to detect and maintain discipline by enforcing laws.
 
 
 The logical framework for database is presented, schema of db:
@@ -16,10 +19,10 @@ The confusion matirx inspired character wise evaluation plot:
 
 
 </br>
-
 The results of evaluation of different methods for ALPR system:
-</br>
-![comparison plot.png](https://github.com/nauman-akram/Thesis-ALPR/blob/main/comparison%20plot.png)
+<p align="center">
+  <img src="[path/to/image.png](https://github.com/nauman-akram/Thesis-ALPR/blob/main/comparison%20plot.png)" />
+</p>
 </br>
 
 </br>
