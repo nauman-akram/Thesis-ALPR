@@ -23,7 +23,7 @@ The logical framework for database is presented, schema of db:
 The confusion matirx inspired character wise evaluation plot:
 </br>
 <p align="center">
-![confusion_matrix](accuracy_matrix.png)
+  <a href="url"><img src="accuracy_matrix.png" align="center" ></a>
 </p>
 </br>
 
@@ -40,6 +40,6 @@ The flowchart for ALPR enhancement is
 </br>
 </br>
 <p align="center">
-<a href="url"><img src="project_flowchart.png" align="center" height="1200" width="680" ></a>
+<a href="url"><img src="project_flowchart.png" align="center" height="1000" width="600" ></a>
 </p>
 
