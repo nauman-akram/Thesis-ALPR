@@ -13,7 +13,7 @@ An ALPR system is automic license plate recognizer that are commonly used on hig
 The logical framework for database is presented, schema of db:
 </br>
 <p align="center">
-<a href="url"><img src="DB_vehicle_identification.png" align="center" height="600" width="520" ></a>
+<a href="url"><img src="DB_vehicle_identification.png" align="center" height="580" width="540" ></a>
 </p>
 <br>
 </br>
@@ -40,6 +40,6 @@ The flowchart for ALPR enhancement is
 </br>
 </br>
 <p align="center">
-<a href="url"><img src="project_flowchart.png" align="center" height="1270" width="740" ></a>
+<a href="url"><img src="project_flowchart.png" align="center" height="1200" width="680" ></a>
 </p>
 
