@@ -3,7 +3,7 @@ Final thesis at University of Bolton, where an ALPR system was evaluated and a t
 
 The results of evaluation of different methods for ALPR system:
 </br>
-![comparison](comparison_plot.png)
+![comparison](comparison plot.png)
 
 </br>
 
@@ -13,15 +13,17 @@ The confusion matirx inspired character wise evaluation plot:
 
 
 </br>
-The logical framework for database is present like:
+The logical framework for database is presented, schema of db:
 </br>
+![DB](DB_vehicle_identification.png)
 
-
+</br>
 
 
 </br>
 
 The flowchart for ALPR enhancement is 
+</br>
 </br>
 ![flowchart](project_flowchart.png)
 
