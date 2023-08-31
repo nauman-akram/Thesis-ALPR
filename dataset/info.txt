@@ -1,0 +1,1 @@
+this folder contains the dataset acquired from Roboflow, and was manually labelled for the license plate numbers and colour
