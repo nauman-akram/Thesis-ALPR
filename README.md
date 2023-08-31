@@ -4,13 +4,15 @@ Final thesis at University of Bolton, where an ALPR system was evaluated and a t
 
 An ALPR system is automic license plate recognizer that are commonly used on highways, to detect and maintain discipline by enforcing laws.
 <br>
+<p align="center">
 <a href="url"><img src="ALPR.jpg" align="center" height="480" width="480" ></a>
-<br>
+</p>
+  <br>
 </br>
 
 The logical framework for database is presented, schema of db:
 </br>
-<a href="url"><img src="DB_vehicle_identification.png" align="center" height="520" width="520" ></a>
+<a href="url"><img src="DB_vehicle_identification.png" align="center" height="600" width="520" ></a>
 </br>
 
 
